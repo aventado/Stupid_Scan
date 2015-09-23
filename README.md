@@ -41,3 +41,6 @@ You are Welcome to Pull it !
 . screenshot :
 
 ![alt tag](http://thxer.com/data/images/ssc1.jpg)
+
+
+![alt tag](http://thxer.com/data/images/ssc2.jpg)
